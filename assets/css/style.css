@@ -1,3 +1,7 @@
+html {
+    overflow-y: scroll;
+}
+
 body {
   font-family: 'Josefin Sans', sans-serif;
   background-color: #CDD8D5;
